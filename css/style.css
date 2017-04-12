@@ -36,8 +36,55 @@
 #timeline_tablet {
     display: none;
 }
-#newtemp14{
+
+#newtemp14 {
     padding-bottom: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+table th,
+table td {
+    border: 2px solid #34495e;
+    padding: 3px;
+    text-align: center;
+}
+
+table th {
+    background: #34495e;
+    color: white;
+}
+
+table .tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table .tg td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+table .tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+table .tg .tg-yw4l {
+    vertical-align: top;
 }
 
 @media (max-width: 768px) and (min-width: 300px) {
@@ -54,6 +101,16 @@
     }
     #hosts .col-md-6 p {
         text-align: center;
+    }
+    .tg {
+        width: auto !important;
+    }
+    .tg col {
+        width: auto !important;
+    }
+    .tg-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 }
 
