@@ -87,6 +87,21 @@ table .tg .tg-yw4l {
     vertical-align: top;
 }
 
+.ghost-btn {
+    margin: 5px 10px;
+    font-size: 18px;
+    padding: 11px;
+    background: white;
+    color: #063c54;
+    border: 2px solid #063C62;
+}
+
+.ghost-btn:hover {
+    opacity: 1;
+    background: #063c54;
+    border: 2px solid #063C62;
+}
+
 @media (max-width: 768px) and (min-width: 300px) {
     #logo {
         width: 226px;
