@@ -100,6 +100,14 @@ footer {
   font-size: 18px;
   padding: 1em;
 }
+.ghost-btn {
+    margin: 5px 10px;
+    font-size: 18px;
+    padding: 15px;
+    background: white;
+    color: #063c54;
+    border: 2px solid #063C62;
+}
 @media only screen and (min-width: 48em) {
   #gracias h2 {
     font-size: 32px;

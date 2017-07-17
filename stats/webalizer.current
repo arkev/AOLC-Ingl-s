@@ -1,0 +1,411 @@
+# Webalizer V2.23-08 Incremental Data - 07/04/2017 00:29:28
+2017 7 4 0 29 28
+177 123 60 16 12 29 7431438 68 51 0 0 0
+1 1 13 1 4
+50 33 1503345 26 20 16 0 0
+55 34 2109129 19 25 15 0 0
+71 55 3808613 22 22 19 0 0
+1 1 10351 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 3 31860 3 0 0
+3 2 21095 2 0 0
+8 7 461148 2 0 0
+9 1 56319 9 0 0
+1 1 10340 1 0 0
+0 0 0 0 0 0
+4 2 64306 2 0 0
+15 13 472952 4 0 0
+0 0 0 0 0 0
+25 21 1742293 4 0 0
+22 14 1110292 5 0 0
+10 8 564824 4 0 0
+4 3 171433 2 0 0
+13 10 796494 4 0 0
+6 3 249950 2 0 0
+10 6 203566 5 0 0
+11 8 530328 3 0 0
+5 4 75397 4 0 0
+10 8 521962 3 0 0
+3 2 11911 1 0 0
+5 3 31761 3 0 0
+2 1 10766 1 0 0
+5 2 64343 4 0 0
+1 1 228098 0 0 0
+0
+0
+0
+123
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+53
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/GIA.svg
+0 1 0 17615 0 0 0 0
+/images/email.svg
+0 1 0 1754 0 0 0 0
+/images/timeline-movil-english.jpg
+1 10 0 1231118 0 0 0 0
+/images/timeline-tablet-espanol.jpg
+1 1 0 156806 0 0 0 0
+/images/timeline-english.jpg
+1 10 0 610787 0 0 0 0
+/images/timeline-tablet-english.jpg
+1 10 0 1542467 0 0 0 0
+/images/timeline-espanol.jpg
+1 1 0 71411 0 0 0 0
+/css/style.css
+0 16 0 22087 0 0 0 0
+/images/aolc_01.jpg
+1 12 0 1753705 0 0 0 0
+/thankyou.html
+0 1 0 1858 0 0 0 0
+/images/timeline-movil-espanol.jpg
+1 1 0 127488 0 0 0 0
+/images/andrews_university.svg
+0 1 0 7840 0 0 0 0
+/
+0 52 0 880201 46 15 0 0
+/css/styles.css
+0 1 0 1166 0 0 0 0
+/AOLC_Paper_Requirements.pdf
+0 5 0 912676 0 0 0 0
+/images/bkg-elearning.jpg
+1 1 0 71255 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.76.15.163
+0 1 0 378 0 0 0 0
+-
+24.244.32.109
+0 7 6 500857 1 1499104843 0 0
+/
+10.16.243.231
+0 8 7 502004 1 1499078069 0 0
+/
+157.55.39.72
+0 1 1 10340 1 1499087463 0 0
+/
+189.175.220.60
+0 5 3 356527 1 1499099145 0 0
+-
+180.76.15.14
+0 1 1 228098 0 0 0 0
+-
+66.249.73.204
+0 1 1 10340 1 1498893798 0 0
+/
+157.55.39.150
+0 1 0 415 0 0 0 0
+-
+219.90.92.58
+0 1 1 61090 0 0 0 0
+-
+54.165.90.203
+0 2 1 53552 1 1498890549 0 0
+/
+131.253.27.140
+0 5 5 489824 0 0 0 0
+-
+66.249.69.84
+0 2 2 20680 2 1499019717 0 0
+/
+199.16.157.180
+0 2 1 10643 1 1498949079 0 0
+/
+66.249.65.211
+0 2 2 20680 2 1498883717 0 0
+/
+207.46.13.131
+0 2 0 830 0 0 0 0
+-
+66.249.65.209
+0 1 1 10340 1 1498910226 0 0
+/
+23.243.206.198
+0 7 6 500857 1 1499081850 0 0
+/
+180.76.15.20
+0 1 1 10303 1 1499010146 0 0
+/
+66.249.75.2
+0 12 7 74232 7 1499128168 0 0
+/
+82.227.222.32
+0 2 1 53627 1 1498991240 0 0
+/
+66.249.75.4
+0 2 2 229281 0 0 0 0
+-
+83.144.74.234
+0 2 1 53627 1 1499087470 0 0
+/
+173.252.120.110
+0 1 1 150487 0 0 0 0
+-
+40.77.178.90
+0 1 1 3118 0 0 0 0
+-
+180.76.15.154
+0 1 0 378 0 0 0 0
+-
+71.95.54.93
+0 15 13 1012058 2 1499001536 0 0
+/
+66.249.75.31
+0 3 3 31031 3 1499112010 0 0
+/
+199.58.86.206
+0 2 1 53570 1 1498904613 0 0
+/
+66.249.65.207
+0 1 0 415 0 0 0 0
+-
+31.168.182.100
+0 2 1 53627 1 1498908147 0 0
+/
+138.197.7.43
+0 2 1 10755 1 1498923129 0 0
+/
+157.55.39.46
+0 1 1 228135 0 0 0 0
+-
+157.55.39.209
+0 4 0 1658 0 0 0 0
+-
+157.55.39.61
+0 1 1 10340 1 1498991923 0 0
+/
+180.76.15.9
+0 1 1 1109 0 0 0 0
+-
+66.249.69.88
+0 6 4 33005 3 1499107905 0 0
+/
+118.89.241.47
+0 3 1 53700 1 1498948174 0 0
+-
+10.16.246.30
+0 8 7 728992 1 1499075705 0 0
+/
+180.76.15.155
+0 1 1 10303 1 1498942073 0 0
+/
+157.55.39.26
+0 1 0 415 0 0 0 0
+-
+90.74.229.19
+0 2 1 53627 1 1499104709 0 0
+/
+180.76.15.147
+0 1 1 10303 1 1499014146 0 0
+/
+157.55.39.9
+0 1 0 415 0 0 0 0
+-
+66.249.69.86
+0 2 1 10754 1 1498980077 0 0
+/
+65.55.210.102
+0 5 5 489824 0 0 0 0
+-
+5.255.250.47
+0 1 0 416 0 0 0 0
+-
+157.55.39.99
+0 1 1 10340 1 1498902058 0 0
+/
+180.76.15.17
+0 1 0 378 0 0 0 0
+-
+180.76.15.161
+0 1 0 378 0 0 0 0
+-
+173.208.221.194
+0 9 1 56319 1 1498967613 0 0
+-
+69.63.188.206
+0 1 1 150487 0 0 0 0
+-
+103.36.17.222
+0 7 6 400069 2 1499112921 0 0
+/
+138.197.2.101
+0 2 1 10766 1 1499116738 0 0
+/
+66.249.73.202
+0 1 0 415 0 0 0 0
+-
+180.76.15.135
+0 1 1 1109 0 0 0 0
+-
+173.252.120.99
+0 1 1 150487 0 0 0 0
+-
+141.8.143.133
+0 2 1 10754 1 1499008217 0 0
+/
+180.76.15.28
+0 1 1 10303 1 1498919992 0 0
+/
+73.207.116.166
+0 11 11 451443 1 1498894029 0 0
+/thankyou.html
+192.243.53.51
+0 4 3 31230 2 1499104564 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.75.2
+0 1 1 10351 1 1499128168 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.google.com.mx/
+0 1
+http://www.google.ca/
+0 1
+http://r.search.yahoo.com/_ylt
+0 1
+http://adventistlearn.online/wp-admin/
+0 4
+https://www.google.com/
+0 2
+- (Direct Request)
+0 97
+http://es.adventistlearn.online/
+0 3
+http://www.adventistlearn.online/thankyou.html
+0 5
+http://www.adventistlearn.online/
+0 13
+http://adventistlearn.online/es
+0 1
+http://adventistlearn.online/
+0 48
+http://adventistlearn.online
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 8
+Twitterbot/1.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 11
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 7
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+ia_archiver
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 23
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Windows; Windows NT 5.1; en-US) Firefox/3.5.0
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 7
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 7.0; SM-G930W8 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile S
+0 7
+Mozilla/5.0 (iPad; CPU OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.0 Mobile/14F89 Safari/602.
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 10
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)
+0 1
+SEMrushBot
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
